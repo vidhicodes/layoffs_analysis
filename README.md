@@ -11,7 +11,6 @@ layoffs_cleaned.csv — Cleaned dataset after processing
 layoffs_eda.sql — Exploratory Data Analysis using SQL queries
 
 # Tools Used
-MySQL 8.x
 
 MySQL Workbench
 
